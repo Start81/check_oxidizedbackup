@@ -114,9 +114,8 @@ sample :
 
 ```
 #linux powershell
-
 pwsh ./check_oxidizedbackup.ps1 -user USERACCOUNT -Pass Password -Url "OxidizedUrl" -Name  "NetworkDeviceName" -Length 20 -Warn 2 -crit 3
-#Poller shinken 
+#npe 
 /var/lib/shinken/plugins$ ./check_nrpe -H IP_NRPE -t 30 -c check_oxidizedbackup -a USERACCOUNT 'Password' 3 2 "NetworkDeviceName" 20
 ```
 
