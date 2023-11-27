@@ -30,7 +30,7 @@ SYNOPSIS
 
 
 SYNTAX
-    C:\Users\Julien\Documents\Scripts\check_oxidizedbackup\check_oxidizedbackup.ps1 [-User] <String> [-Pass] <String>
+    check_oxidizedbackup.ps1 [-User] <String> [-Pass] <String>
     [[-Name] <String>] [-Url] <String> [[-Warn] <Double>] [[-Crit] <Double>] [[-Length] <Int32>] [-ListNodes]
     [-ListNodesXml] [<CommonParameters>]
 
@@ -43,14 +43,14 @@ RELATED LINKS
 
 REMARKS
     To see the examples, type: "Get-Help
-    C:\Users\Julien\Documents\Scripts\check_oxidizedbackup\check_oxidizedbackup.ps1 -Examples"
+    check_oxidizedbackup.ps1 -Examples"
     For more information, type: "Get-Help
-    C:\Users\Julien\Documents\Scripts\check_oxidizedbackup\check_oxidizedbackup.ps1 -Detailed"
+    check_oxidizedbackup.ps1 -Detailed"
     For technical information, type: "Get-Help
-    C:\Users\Julien\Documents\Scripts\check_oxidizedbackup\check_oxidizedbackup.ps1 -Full"
+    check_oxidizedbackup.ps1 -Full"
 
 
-PS C:\Users\Julien\Documents\Scripts\check_oxidizedbackup> get-help .\check_oxidizedbackup.ps1  -Detailed
+ get-help .\check_oxidizedbackup.ps1  -Detailed
 
 NAME
     C:\Users\Julien\Documents\Scripts\check_oxidizedbackup\check_oxidizedbackup.ps1
@@ -60,7 +60,7 @@ SYNOPSIS
 
 
 SYNTAX
-    C:\Users\Julien\Documents\Scripts\check_oxidizedbackup\check_oxidizedbackup.ps1 [-User] <String> [-Pass] <String>
+    check_oxidizedbackup.ps1 [-User] <String> [-Pass] <String>
     [[-Name] <String>] [-Url] <String> [[-Warn] <Double>] [[-Crit] <Double>] [[-Length] <Int32>] [-ListNodes]
     [-ListNodesXml] [<CommonParameters>]
 
