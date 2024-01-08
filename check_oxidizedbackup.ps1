@@ -8,7 +8,7 @@
 .NOTES
     Version: 1.2.0
     Name: check_oxidized
-    Author: DESMAREST Julien (Open)
+    Author: DESMAREST Julien (Start81)
     Modified By : -
     Last Modified : 03/01/2023
     Changelog
