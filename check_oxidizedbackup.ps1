@@ -12,7 +12,7 @@
     Modified By : -
     Last Modified : 03/01/2023
     Changelog
-       1.0.0 08/11/2021 : Initial release.
+           1.0.0 08/11/2021 : Initial release.
 	   1.1.0 15/12/2022 : Powershell 7.3 version for linux and windows.
 	   1.2.0 03/01/2023 : add autodiscover.
 .DESCRIPTION
